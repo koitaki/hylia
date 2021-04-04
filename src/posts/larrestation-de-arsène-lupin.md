@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: L'arrestation de Arsène Lupin
+title: L'arrestation de Arsene Lupin
 date: 2021-04-04T11:38:13.860Z
 ---
 <section class="[ table-group ] [ flow ] [ equal-cols ]">
