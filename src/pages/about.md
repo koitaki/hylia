@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: About
-permalink: /about
+permalink: /about/index.html
 metaTitle: About page
 metaDesc: About this website
 ---
